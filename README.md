@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Shaurya;AI+%2B+Cybersecurity+Enthusiast;Creator+of+Eng+Programming+Language)](https://git.io/typing-svg)
 
 <!--
 **UnaverageDeveloper/unaveragedeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

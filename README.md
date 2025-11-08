@@ -5,6 +5,6 @@
 - 🔭 I’m currently working on my very own Eng Programming Language.
 - 🌱 I’m currently learning Python and AI.
 - 🤔 I’m looking for help with AI.
-- 💬 Ask me about 💬 Ask me about: Python, Discord bot dev, hacking basics, building a programming language, or how to start freelancing as a teen.
+- 💬 Ask me about: Python, Discord bot dev, hacking basics, building a programming language, or how to start freelancing as a teen.
 - 📫 How to reach me: shauryaisnotmyname@gmail.com
 - ⚡ Fun fact: I started designing my own programming language (Eng) at 14, because I wanted code to read like plain English.

@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Shaurya;AI+%2B+Cybersecurity+Enthusiast;Creator+of+Eng+Programming+Language" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋;AI+%2B+Cybersecurity+Enthusiast;Creator+of+Eng+Programming+Language" />
 </div>
 
 - 🔭 I’m currently working on my very own news platform: Talk Less.

@@ -3,8 +3,8 @@
 </div>
 
 - 🔭 I’m currently working on my very own news platform: Talk Less.
-- 🌱 I’m currently learning Python and AI.
-- 🤔 I’m looking for help with AI.
+- 🌱 I’m currently working on Python, C++ and AI.
+- 🤔 I’m looking for collaboration in AI.
 - 💬 Ask me about: Python, Discord bot dev, hacking basics, building a programming language, or how to start freelancing as a teen.
 - 📫 How to reach me: shauryaisnotmyname@gmail.com
 - ⚡ Fun fact: I started designing my own programming language (Eng) at 14, because I wanted code to read like plain English.
